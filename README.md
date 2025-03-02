@@ -98,10 +98,6 @@ The code generates scatter plots with trendlines for voltage changes over moveme
 - The code assumes the CSV files are well-formatted and that the `spike_type` exists in the data columns (`eyes_volt`, `head_volt`, or `chair_volt`)
 - The results are output as a DataFrame containing the trail type, mean voltage differences, and calculated degrees
 
-## Contribution
-
-Feel free to fork the repository, submit issues, or create pull requests for improvements. Contributions to the code are welcome, especially for enhancing the analysis of eye or head movement data.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
