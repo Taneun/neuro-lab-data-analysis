@@ -4,11 +4,6 @@ import os
 import statsmodels.api as sm
 import plotly.express as px
 import plotly.graph_objects as go
-
-# This code is used to process the data from the CSV files and create a graph
-# showing the change in voltage as a function of eye or head movements.
-# by Tal Neumann, 2024
-
 """
 for this code to work you need to save the csv files with the following format:
 <direction><degree>_<trail number>.csv
