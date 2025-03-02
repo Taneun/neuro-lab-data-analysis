@@ -9,3 +9,9 @@ __pycache__/
 # Virtual Environment
 venv/
 env/
+
+# Ignore the specific file
+lib/python3.10/site-packages/kaleido/executable/bin/kaleido
+
+# Or, ignore the whole directory
+lib/python3.10/site-packages/kaleido/executable/bin/
